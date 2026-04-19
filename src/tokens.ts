@@ -1,0 +1,15 @@
+export const T = {
+  accent: '#FF6A1A',
+  accentDim: '#A14210',
+  accentGlow: 'rgba(255,106,26,0.35)',
+  bg: '#0B0D0F',
+  bgAlt: '#14181C',
+  panel: '#161B20',
+  panelHi: '#1E252B',
+  line: '#242B32',
+  text: '#F4F6F8',
+  textDim: '#8B96A1',
+  textMuted: '#5A6670',
+  ok: '#6FE3A3',
+  warn: '#FFC24D',
+} as const;
